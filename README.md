@@ -38,6 +38,6 @@ private void nextButtonClick(object sender, EventArgs e)
     }
 }
 ```
-![DetailsView-Search](DetailsView-Search.gif)
+![DetailsView-Search](Search.gif)
 
 Take a moment to peruse the [WinForms DataGrid - Search](https://help.syncfusion.com/windowsforms/datagrid/search) documentation, where you can find about the search with code examples.

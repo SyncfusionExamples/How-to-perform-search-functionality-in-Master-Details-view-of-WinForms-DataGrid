@@ -78,7 +78,7 @@ namespace SfDataGridDemo
             collection.Columns.Add("Name", typeof(string));
             collection.Columns.Add("City", typeof(string));
             collection.Columns.Add("Quantity", typeof(int));
-            collection.Columns.Add("UnitPrice", typeof(int));
+            collection.Columns.Add("Unit Price", typeof(int));
             collection.Rows.Add(1001, "Belgim", "California", 10, 50);
             collection.Rows.Add(1001, "Belgim", "Colorado", 20, 35);
             collection.Rows.Add(1001, "Belgim", "Alaska", 50, 65);

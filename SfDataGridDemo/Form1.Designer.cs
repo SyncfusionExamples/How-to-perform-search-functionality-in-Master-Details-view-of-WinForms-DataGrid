@@ -61,7 +61,7 @@ namespace SfDataGridDemo
             this.groupBox1.Size = new System.Drawing.Size(267, 123);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Search here";
+            this.groupBox1.Text = "Search";
             // 
             // button2
             // 
